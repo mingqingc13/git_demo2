@@ -1,9 +1,10 @@
 ## git-demo2
+- 測試 git 指令
 
 > 建立時間
 - 2022/05/21
 - 作者:
-    - mingqing Chen
+    - mingqing Chen (陳明卿)
 
 
 > git reset    將當前 HEAD 重置為指定狀態   (如移動HEADmaster的位置)
